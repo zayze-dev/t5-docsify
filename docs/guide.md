@@ -1,7 +1,7 @@
 .
 └── docs
     ├── README.md
-    ├── info.md
+    ├── Info.md
     ├── QnA.md
     ├── Hammer.md
     ├── Said.md
