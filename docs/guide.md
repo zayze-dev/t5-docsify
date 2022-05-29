@@ -1,6 +1,6 @@
 .
 └── docs
-    ├── homepage.md
+    ├── README.md
     ├── guide.md
     ├── QnA.md
     ├── baldhead-said.md
