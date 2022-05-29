@@ -6,5 +6,5 @@
     ├── baldhead-said.md
     ├── baldhead-hammer.md
     └── zh-cn
-        ├── homepage.md
+        ├── README.md
         └── guide.md
