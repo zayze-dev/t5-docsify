@@ -21,5 +21,5 @@
 示例目标：新建一个xxx页面<br>
 1.需要更新guide.md文件，给docs新建一个子分支，命名为xxx.md<br>
 (guide.md这个文件列举了本站页面的层级关系)<br>
-2.需要在docs文件夹里新建一个xxx.md文件
+2.需要在docs文件夹里新建一个xxx.md文件<br>
 3.这样就可以用 t5.wiki/xxx 这个链接访问这个新页面了
