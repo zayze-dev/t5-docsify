@@ -96,7 +96,7 @@
 08:20  全空心琴相比半空心/实心琴更好吗？<br>
 09:00  人声如何更靠前/靠后？
 
-## Q&A#45：光头从不粗混？？？
+## Q&A#45 光头从不粗混？？？
 [bilibili](https://www.bilibili.com/video/BV1BQ4y1Q7sL)<br>
 时间戳坐标：<br>
 harsh/harshness在哪些乐器中容易出现？<br>
@@ -106,7 +106,7 @@ t老师从不粗混？ <br>
 羚羊zen go和184录指弹可以吗？<br>
 该用什么话筒呢？
 
-## Q&A&锤#44：你的音乐制作基本盘风格树？
+## Q&A&锤#44 你的音乐制作基本盘风格树？
 [bilibili](https://www.bilibili.com/video/BV1k3411i7YD)<br>
 时间戳坐标：<br>
 如何快速听出和声？<br>
