@@ -15,7 +15,12 @@
   <script>
     window.$docsify = {
       name: 't5-docsify',
-      repo: 'https://github.com/ecnu-zayze/t5-docsify'
+      repo: 'https://github.com/ecnu-zayze/t5-docsify',
+      
+      plugins: [
+        EditOnGithubPlugin.create(
+          'https://github.com/ecnu-zayze/t5-docsify/tree/main/docs/'
+        )]
     }
   </script>
   <!-- Docsify v4 -->
