@@ -10,4 +10,4 @@ t5.wiki是光头说粉丝自建的wiki站点
 
 光头锤
 
-Q&A
+Q&A https://t5.wiki/#/QnA
