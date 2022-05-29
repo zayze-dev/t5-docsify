@@ -1,6 +1,6 @@
 .
 └── docs
-    ├── README.md
+    ├── homepage.md
     ├── guide.md
     ├── QnA.md
     └── zh-cn
