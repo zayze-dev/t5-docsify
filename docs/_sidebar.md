@@ -5,6 +5,6 @@
 
 * 节目
 
-  * [Q&A](show/QnA.md)
-  * [光头说](show/baldhead-said.md)
-  * [光头锤](show/baldhead-hammer.md)
+  * [Q&A](QnA.md)
+  * [光头说](baldhead-said.md)
+  * [光头锤](baldhead-hammer.md)
