@@ -1,11 +1,13 @@
-## 使用指南
+## 简易使用指南
 
 左上角的搜索框，将对主页、光头锤、光头说、Q&A这几个页面进行搜索<br>
 右上角的三角标，将跳转到本项目的github源码
 
 # 如何贡献wiki
-本页由t5.wiki开发者撰写<br>
-更专业的使用指南请参考[docsify官方网站](https://docsify.js.org/#/)
+1. 你需要一个github账号<br>
+2. 你需要写邮件给管理员获得本站点项目源码修改权限<br>
+   <a href="mailto:contact@zayzeproductions.com?subject=Something to filter on">点击这里</a>跳转至邮箱，记得修改邮件主题名
+3. 根据下面的介绍或者[docsify官方网站](https://docsify.js.org/#/)来更新站点内容
 
 ## 如何修改页面
 想要贡献wiki？你需要做以下这些事情<br>
