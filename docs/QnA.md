@@ -6,21 +6,49 @@
 [bilibili](https://www.bilibili.com/video/BV1TB4y1m7uA)<br>
 时间戳坐标：<br>
 0:13  Chorus效果器的梳妆滤波什么时候可以用或者比真实群奏更能达到效果？<br>
+&emsp;&emsp;T：大部分情况下是的，如果设置的delay很长，实际上会出一个类似于slay delay的声，在这个基础上有modulation的话，不一定跟原始信号有相位抵消<br>
+&emsp;&emsp;个人建议以声音为准，不要以为波形为准<br>
+&emsp;&emsp;如果想要有类似群奏效果的话，不太一样，如果想要有类似chorus效果的话，会比群奏要好<br>
+&emsp;&emsp;要回到制作出发点本身，它们在成品质感上有差别，哪个更好取决于制作的需求和场景
+
 1:37  VOCALOID大合唱如何塑造群体感？<br>
+&emsp;&emsp;T：1.可以把节奏修的不是那么准<br>
+&emsp;&emsp;2.可以用melodyne进行“修音”，为了让它不太准，特别是Intended Note<br>
+&emsp;&emsp;人在真实唱歌的时候由于嗓音限制，会导致有些音唱不准，这种唱不准是有一种趋势可循的，所以要在虚拟歌手中体现出这种真实的唱不准的趋势<br>
+&emsp;&emsp;并且每个人的趋势不太一样，听上去会比较乱 & 比较像人唱的<br>
+&emsp;&emsp;3.还可以在后面叠一些真实人的合唱，混在里面不太会被辨识是真实还是vocaloid，会有比较好的效果
+
 2:48  专辑内的歌Genre跨度比较大时如何保持专辑的整体性？<br>
-&emsp;&emsp;制作也有一定的关系，很大程度是靠母带。可以让声音特性比较类似，比如eq差不多，或者染色和响度差不多，但整体是个母带的事情，好好做母带应该可以做到<br>
+&emsp;&emsp;T：制作也有一定的关系，很大程度是靠母带。可以让声音特性比较类似，比如eq差不多，或者染色和响度差不多，但整体是个母带的事情，好好做母带应该可以做到
+
 3:28  木吉他指弹录音两头翘？有什么比较好的录音方案？<br>
-&emsp;&emsp;1.有相机的话可以试试相机mic内录，观察录出来的声音和自己弹的时候的声音一不一样（因为很可能不是话筒录音的问题，可能是演奏的问题，可能是琴的问题）<br>
+&emsp;&emsp;T：1.有相机的话可以试试相机mic内录，观察录出来的声音和自己弹的时候的声音一不一样<br>
+&emsp;&emsp;（因为很可能不是话筒录音的问题，可能是演奏的问题，可能是琴的问题）<br>
 &emsp;&emsp;2.看看之前录木吉他的节目（虽然不是针对指弹），方法上大同小异<br>
 &emsp;&emsp;3.个人建议，录XY，因为估计声装不太好，用XY可以收到更少的房间声或者用一个话筒，对着12品或缺角或琴桥后面<br>
 &emsp;&emsp;[相关节目：我喜欢的3种木吉他录音方式](https://www.bilibili.com/video/BV1xA411t77q)<br>
-&emsp;&emsp;需要排查一下具体是什么原因造成的，很有可能不是录音的问题<br>
+&emsp;&emsp;需要排查一下具体是什么原因造成的，很有可能不是录音的问题
+
 5:18  如何让幼儿园小打更可用？<br>
-&emsp;&emsp;我猜降低力度主要原因是觉得transient飞了，没有身体感，其实在各个乐器都会有，特别是便宜的乐器<br>
-&emsp;&emsp;个人建议直接去挂[Devil-Loc](https://www.soundtoys.com/product/devil-loc-deluxe/),可以比较好的抹掉音头，而且会带来延音和泛音，可以达到一个比较理想的效果<br>
+&emsp;&emsp;T：我猜降低力度主要原因是觉得transient飞了，没有身体感，其实在各个乐器都会有，特别是便宜的乐器<br>
+&emsp;&emsp;个人建议直接去挂[Devil-Loc](https://www.soundtoys.com/product/devil-loc-deluxe/),可以比较好的抹掉音头，而且会带来延音和泛音，可以达到一个比较理想的效果
+
 5:58  S1自带混响的负Pre-delay？<br>
+&emsp;&emsp;T：我的s1还在4.6呢，不太清楚<br>
+&emsp;&emsp;奇葩小葱葱：S1 自带混响的负 Pre-delay 问题，在 S1 v5.1 的帮助文档第312页有介绍：<br>
+&emsp;&emsp;"Adjusts the offset for room-derived natrual predelay amount. "<br>
+&emsp;&emsp;意思是说，这个参数是对当前混响类型的predelay时长的一个调节。<br>
+&emsp;&emsp;它表达的不是这个混响的predelay时长多少，而是在当前的插件所选的混响类型的predelay数值上进行增减，所以存在负值，表达减小混响本来的predelay时长。
+
 6:40  ID44录Bass接DI口还是平衡口？<br>
-7:02  想入手声学面板？
+&emsp;&emsp;T：肯定用DI口录，平衡口录的话实际上就是Line In了，阻抗是不对的，出来的声音是不对的<br>
+&emsp;&emsp;插件DI不是真正的DI，只是DI的染色
+
+7:02  想入手声学面板？<br>
+&emsp;&emsp;T：暂时没有推荐的品牌，或者就特别贵<br>
+&emsp;&emsp;有几个注意的点<br>
+&emsp;&emsp;1. 不要用聚酯纤维，效果比较有限，要用高密度的岩棉或者玻璃棉<br>
+&emsp;&emsp;2. 对于空腔的做法，有些人会在面板后面加一块木板，直接导致声学面板离墙房就没有用了<br>
 
 ## Q&A#51 好混响是挑出来的还是调出来的？
 [bilibili](https://www.bilibili.com/video/BV1344y1P7Ta)<br>
