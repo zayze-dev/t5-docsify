@@ -2,6 +2,23 @@
 本页收纳了QnA的内容<br>
 参与Q&A的方式 [link](https://t5tudio.com/qna)
 
+## Q&A#53 从指弹选手到音乐制作人 我经历了啥？
+[bilibili](https://www.bilibili.com/video/BV1aW4y1C7y6)<br>
+时间戳坐标：<br>
+0：12 Cubase可以用Presonus家的推子推CC1吗？<br>
+0：29 t老师的琴平时会开除湿吗？<br>
+1：05 练习视唱练耳对修音有帮助吗？t老师混音前会给音频助理提什么要求？<br>
+2：28 一高一低的吉他分解Pan极左极右？<br>
+2：56 从指弹选手到音乐制作人，t老师都经历了啥？<br>
+5：43 t老师如何使用Anki练琴？<br>
+6：02 Clipper、Maximizer、Limiter三者的区别？做响度时的使用思路和顺序？<br>
+7：39 监听音箱和监听耳机有本质区别吗？混音初学者应该怎么选？<br>
+9：10 传统R&B、Soul用P Bass还是J Bass更合适？<br>
+9：25 如何录拍手？<br>
+9：51 制作场景下需要录多准？误差在多少以内不用重录？<br>
+10：29 基于小节的自由节奏Editing方案？<br>
+11：10 【特殊节目预告】
+
 ## Q&A#52 声学面板如何避坑？
 [bilibili](https://www.bilibili.com/video/BV1TB4y1m7uA)<br>
 时间戳坐标：<br>
